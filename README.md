@@ -1,6 +1,7 @@
 👋 Hi, I’m @kyaso. Welcome to my profile!
 
-👀 I’m interested in computer architecture, digital design, FPGAs and software.
+👀 I’m interested in computer architecture, digital design, FPGAs and software.\
+Plus, I highly value open source software and hardware!
 
 👨‍💻 When I talk to computers, I mostly use these languages:
 
