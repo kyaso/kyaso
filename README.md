@@ -1,4 +1,4 @@
-👋 Hi, I’m Kirthihan. Welcome to my profile!
+### 👋 Hi, I’m Kirthihan. Welcome to my profile!
 
 👀 I’m interested in computer architecture, digital design, FPGAs and software.\
 Plus, I highly value open source software and hardware!
