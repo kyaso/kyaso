@@ -23,7 +23,7 @@ Plus, I highly value open source software and hardware!
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-green?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
 
-✏️ Sometimes, I also like to write stuff: [bitsandvolts.org](bitsandvolts.org)
+✏️ Sometimes, I also like to write stuff: [bitsandvolts.org](https://bitsandvolts.org)
 
 <!---
 kyaso/kyaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
